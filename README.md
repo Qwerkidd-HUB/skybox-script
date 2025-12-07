@@ -4,6 +4,9 @@ just past into localscript or script
 https://www.roblox.com/users/10091797115/profile
 https://www.youtube.com/@Qwerkid
 -----------------------script:
+
+
+
 local button = script.Parent
 
 button.MouseButton1Click:Connect(function()
