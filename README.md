@@ -3,6 +3,7 @@ just past into localscript or script
 -----------------------links
 https://www.roblox.com/users/10091797115/profile
 https://www.youtube.com/@Qwerkid
+WARNING: copy RAW file!!!!!!!!!!
 -----------------------script:
 
 
